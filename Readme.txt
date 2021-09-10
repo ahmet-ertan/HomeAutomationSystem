@@ -1,0 +1,1 @@
+This is the code of the Arduino system. You can use Smart home mobile application to control the codes.
